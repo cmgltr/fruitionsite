@@ -1,7 +1,10 @@
 /* CONFIGURATION STARTS HERE */
 
 /* Step 1: enter your domain name like fruitionsite.com */
-const MY_DOMAIN = "fruitionsite.com";
+const MY_DOMAIN = "www.mecsys.com.tr"
+const START_PATH = "/"
+const NOTION_PAGE = "1ddd6db7d2508011b79cf032297d399f"
+
 
 /*
  * Step 2: enter your URL slug to page ID mapping
