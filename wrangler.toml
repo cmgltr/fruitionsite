@@ -1,0 +1,4 @@
+name = "mecsys"
+type = "javascript"
+compatibility_date = "2025-05-23"
+main = "worker.js"
